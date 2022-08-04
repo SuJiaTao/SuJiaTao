@@ -1,4 +1,4 @@
-Hi
+Ameture programmer who loves to make libraries/game engines in C.
 
 <!---
 HarryFishnuts/HarryFishnuts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
