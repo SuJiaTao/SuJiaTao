@@ -1,4 +1,4 @@
-I like systems and I like C.
+C is fun
 
 <!---
 HarryFishnuts/HarryFishnuts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
